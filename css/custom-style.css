@@ -1,0 +1,37 @@
+.bt-navbar-custom {
+    min-width: 100px;
+    max-width: 200px;
+}
+.div-navbar-button {
+    padding: 20px;
+}
+.text-primary {
+    background-color: #aad3fd !important;
+}
+.text-secondary {
+    background-color: #aad3fd !important;
+}
+.text-success {
+    background-color: #aad3fd !important;
+}
+.text-danger {
+    background-color: #aad3fd !important;
+}
+.text-warning {
+    background-color: #aad3fd !important;
+}
+.text-info {
+    background-color: #aad3fd !important;
+}
+.text-light {
+    background-color: #aad3fd !important;
+}
+.text-dark {
+    background-color: #aad3fd !important;
+}
+.text-muted {
+    background-color: #aad3fd !important;
+}
+.text-white {
+    background-color: #aad3fd !important;
+}
